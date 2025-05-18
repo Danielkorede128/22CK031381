@@ -15,4 +15,4 @@ def caesar(word, cipher_shift_value):
         else:
             caeser[i] = alphabet[index]
     return caeser
-print(caesar("leonard", 2))
+print(caesar("Daniel", 2))
